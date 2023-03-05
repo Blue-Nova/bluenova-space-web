@@ -5,5 +5,4 @@ services:
     image: docker-nextjs-dev
     build: .
     ports:
-      - 80:80
-      - 443:443
+      - 3000:3000
